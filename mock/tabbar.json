@@ -1,0 +1,48 @@
+{
+  "code": "0000",
+  "data": {
+    "venderId": 1,
+    "titleSelectedColor": "#e96113",
+    "tabbarList": [{
+      "showName": true,
+      "name": "首页",
+      "path": "/",
+      "normal": "/static/imgs-icons/home.png",
+      "active": "/static/imgs-icons/home-active.png",
+      "type": 1
+    }, {
+      "showName": true,
+      "name": "分类",
+      "path": "/category",
+      "normal": "/static/imgs-icons/category.png",
+      "active": "/static/imgs-icons/category-active.png",
+      "type": 2
+    }, {
+      "showName": true,
+      "name": "会员生活",
+      "path": "/vip",
+      "normal": "/static/imgs-icons/vip.png",
+      "active": "/static/imgs-icons/vip-active.png",
+      "type": 3
+    }, {
+      "showName": true,
+      "name": "购物车",
+      "path": "/car",
+      "normal": "/static/imgs-icons/car.png",
+      "active": "/static/imgs-icons/car-active.png",
+      "type": 4
+    }, {
+      "showName": true,
+      "name": "我的",
+      "path": "/my",
+      "normal": "/static/imgs-icons/my.png",
+      "active": "/static/imgs-icons/my-active.png",
+      "type": 5
+    }],
+    "showBgImg": false,
+    "titleUnselectedColor": "#666666",
+    "erpStoreId": 270,
+    "showSplitLine": true
+  },
+  "result": "success"
+}

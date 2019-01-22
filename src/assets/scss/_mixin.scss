@@ -1,0 +1,7 @@
+//箭头
+@mixin arrow($w: 10px, $c: #000, $dir: right) {
+  width: 0px;
+  font-size: 0px;
+  border: $w solid transparent;
+  border-#{ $dir }-color: $c;
+}
