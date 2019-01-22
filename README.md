@@ -1,4 +1,4 @@
-# duodian-vant
+# shopping-vant-vue
 
 ## Project setup
 ```
